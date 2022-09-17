@@ -23,5 +23,3 @@ api(function (result) {
     })
 })
 
-const hh = 1
-
