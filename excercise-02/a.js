@@ -23,3 +23,4 @@ api(function (result) {
     })
 })
 
+const a = 123
