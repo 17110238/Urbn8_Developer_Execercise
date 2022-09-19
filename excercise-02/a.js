@@ -24,3 +24,4 @@ api(function (result) {
 })
 
 const a = 1235
+const b = 333
