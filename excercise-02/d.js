@@ -1,2 +1,2 @@
 const hi = 'hi'
-const haha = 'haha'
+const haha = 'navyy'
